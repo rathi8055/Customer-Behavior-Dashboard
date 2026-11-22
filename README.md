@@ -10,7 +10,7 @@ It helps understand customer behavior through interactive visualizations and fil
 
 ## Dashboard Preview
 
-![Customer Behavior Dashboard](Screenshots/customer_behavior_dashboard.png)
+![Customer Behavior Dashboard](Screenshot (1339)/PNG File (.png))
 
 ## Key Performance Indicators (KPIs)
 
