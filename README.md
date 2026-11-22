@@ -85,7 +85,7 @@ The objective of this project is to analyze customer purchasing behavior and pre
 
 Ashish Rathi
 
-GitHub: [Add your GitHub profile link](https://github.com/)
+GitHub: [Add your GitHub profile link](https://github.com/rathi8055)
 
 ---
 
