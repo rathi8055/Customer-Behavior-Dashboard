@@ -8,9 +8,10 @@ The dashboard provides insights into customer purchasing patterns, subscription 
 
 It helps understand customer behavior through interactive visualizations and filters.
 
-## Dashboard Preview
 
-![Customer Behavior Dashboard](Screenshots/customer_behavior_dashboard.png)
+## 📊 Dashboard Preview
+
+![Customer Behavior Dashboard](./Screenshot%20(1339).png)
 
 ## Key Performance Indicators (KPIs)
 
