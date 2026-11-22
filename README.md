@@ -79,7 +79,7 @@ The objective of this project is to analyze customer purchasing behavior and pre
 
 ## Author
 
-**Ekank Awasthi**
+**Ashish Rathi**
 
 GitHub: [Add your GitHub profile link](https://github.com/)
 
