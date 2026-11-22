@@ -8,6 +8,9 @@ The dashboard provides insights into customer purchasing patterns, subscription 
 
 It helps understand customer behavior through interactive visualizations and filters.
 
+## Dashboard Preview
+
+![Customer Behavior Dashboard](Screenshots/customer_behavior_dashboard.png)
 
 ## Key Performance Indicators (KPIs)
 
@@ -79,9 +82,9 @@ The objective of this project is to analyze customer purchasing behavior and pre
 
 ## Author
 
-**Ashish Rathi**
+Ashish Rathi
 
-GitHub: [Add your GitHub profile link](https://github.com/rathi8055)
+GitHub: [Add your GitHub profile link](https://github.com/)
 
 ---
 
